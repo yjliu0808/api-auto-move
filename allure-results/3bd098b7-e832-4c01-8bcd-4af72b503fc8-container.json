@@ -1,0 +1,1 @@
+{"uuid":"3bd098b7-e832-4c01-8bcd-4af72b503fc8","name":"com.cases.BaseCase.afterMethod","description":"","start":1780149599329,"stop":1780149599330,"children":["8622f627-51f5-4978-b273-3b7806cfba3c"],"afters":[{"name":"afterMethod","status":"passed","stage":"finished","description":"","start":1780149599329,"stop":1780149599330}]}
